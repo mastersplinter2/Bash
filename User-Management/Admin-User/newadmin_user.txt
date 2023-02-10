@@ -1,0 +1,11 @@
+admin0 admin0 1000 "special admin user" admin0 wheel 
+admin1 admin1 1001 "special admin user" admin1 wheel
+admin2 admin2 1002 "special admin user" admin2 wheel 
+admin3 admin3 1003 "special admin user" admin3 wheel
+admin4 admin4 1004 "special admin user" admin4 wheel 
+admin5 admin5 1005 "special admin user" admin5 wheel
+admin6 admin6 1006 "special admin user" admin6 wheel
+admin7 admin7 1007 "special admin user" admin7 wheel
+admin8 admin8 1008 "special admin user" admin8 wheel
+admin9 admin9 1009 "special admin user" admin9 wheel
+
